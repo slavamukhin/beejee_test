@@ -1,6 +1,6 @@
 Тест по программированию:
 
-Создать приложение-задачник.
+Создать [приложение](http://mukhin.zzz.com.ua/)-задачник.
 
 Документацию по back-end можно найти [тут](https://uxcandy.com/~shapoval/test-task-backend/docs.html):
 
